@@ -27,7 +27,7 @@ const questions = [
         message:"Please insert Usage Information"
     },
     {
-        type:"input",
+        type:"list",
         name:"license",
         message:"Please select the appropriate license",
         choices:[
@@ -36,7 +36,7 @@ const questions = [
            "Apache",
            "Boost",
            "Eclipse",
-            
+    
         ]
     },
     {
