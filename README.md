@@ -1,38 +1,11 @@
-# 1
-## Description
-2
+# 09_AA_README_GENERATOR
 
-## Table of Contents:
--[Description](#description) <br/>
--[Installation](#installation) <br/>
--[Usage](#usage) <br/>
--[License](#license) <br/>
--[Contribution](#contribution) <br/>
--[Tests](#tests) <br/>
--[Questions](#questions) <br/>
+## Link to Live Application Video:
+https://drive.google.com/file/d/1-dy9urLsSNTjL5bCpGFIP4vxzzIljKHj/view
 
-##Installations
-3
+## Description:
 
-##Usage
-4
+This ReadMe Generator was created using Node.js and the Inquirer function. It allows the user to input information such as a Name, Description, Installation Instructions, etc. 
 
-##Contribution
-5
-
-##Tests
-6
-
-##Questions
-7
-
-Check out my GitHub: [8](https://github.com/8)
-If you have any questions, please contact my email: 9
-
-##License
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) <br/>
-https://opensource.org/licenses/MPL-2.0 <br/>
-This application is licensed by Mozilla <br/>
-
-
-
+## Links:
+https://github.com/andadam24/09_ReadMe_Generator
